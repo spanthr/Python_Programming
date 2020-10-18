@@ -3,7 +3,7 @@
 # Question 1 
 Given an array of integers, find two numbers in it such that they can add up to a specific number.
 You may assume there are exactly one solution, you can’t use the same element twice. 
-![](Images/Picture1.png)
+![](Images/Image/Picture1.png)
 
 
 # Question 2 
