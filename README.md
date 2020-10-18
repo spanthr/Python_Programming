@@ -2,14 +2,12 @@
 
 # Question 1 
 Given an array of integers, find two numbers in it such that they can add up to a specific number.
-You may assume there are exactly one solution, you can’t use the same element twice. (Only time-complexity optimized solution gets full grade)
+You may assume there are exactly one solution, you can’t use the same element twice. 
 
 
-Modify the “solution” function in the question1.py.
-(Analyze your time complexity)
 
 # Question 2 
-Given a binary tree, find the max depth of it. Modify the “solution” function in the question2.py (Analyze your time complexity) (Only time-complexity optimized solution gets full grade)
+Given a binary tree, find the max depth of it.  
 
 # Question 3 
 You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
@@ -25,6 +23,8 @@ Write a NumPy program to add, subtract, multiply, divide arguments element-wise.
 
 # Question 6 
 Use OpenCV to do a bilateral filter to an image, modify from question6.py, you may use your favorite image, visualize the images before and after the filtering using matplotlib.
+
+![](Images/image4.png)
 
 # Question 7 
 Given a binary tree and a sum, determine if the tree has a root-to-leaf path such that adding up all the values along the path equals the given sum.
